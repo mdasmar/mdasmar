@@ -1,73 +1,140 @@
-# Hi there, I'm Md Asmar 👋
+<h1 align="center">Hi 👋, I'm Md Asmar</h1>
+<h3 align="center">AI/ML Developer | Computer Science Undergraduate | Building AI-Powered Applications</h3>
 
-🎓 **B.Tech Computer Science Undergraduate** at KIIT – Kalinga Institute of Industrial Technology (CGPA: **8.88/10**)
-
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and Software Development**. I enjoy building AI-powered applications that solve real-world problems and continuously exploring emerging technologies in the AI ecosystem.
-
-## 🚀 What I'm Working On
-
-* 🤖 AI-powered Interview Preparation Platform
-* 📊 Intelligent Candidate Ranking & ATS Systems
-* 🧠 Large Language Models (LLMs)
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents & Agentic AI
-
-## 💻 Tech Stack
-
-**Languages**
-
-* Python
-* Java
-* C
-* C++
-* SQL
-
-**AI & Machine Learning**
-
-* Azure OpenAI
-* Machine Learning
-* Large Language Models (LLMs)
-* Natural Language Processing (NLP)
-
-**Frameworks & Tools**
-
-* Streamlit
-* GitHub
-* Docker
-* VS Code
-
-**Core Computer Science**
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Database Management Systems
-
-## 🌟 Featured Projects
-
-### 🎯 AI Interview Coach
-
-An AI-powered interview preparation platform that analyzes resumes, extracts technical skills, generates adaptive interview questions, and provides personalized learning roadmaps using Azure OpenAI.
-
-### 📈 JD Ranking System
-
-A CPU-only candidate ranking system that evaluates resumes against job descriptions using rule-based scoring and an interactive Streamlit interface.
-
-## 🌱 Currently Learning
-
-* Agentic AI
-* Advanced LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* FastAPI
-* Docker & Containerization
-* Cloud AI Services
-
-## 📫 Connect with Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/md-asmar-03b963401
-* 💻 GitHub: https://github.com/mdasmar
-* 📧 Email: [mdasmar719@gmail.com](mailto:mdasmar719@gmail.com)
+<p align="center">
+  <a href="https://github.com/mdasmar">
+    <img src="https://komarev.com/ghpvc/?username=mdasmar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-⭐ *Always learning, building, and exploring the latest advancements in Artificial Intelligence and Software Engineering.*
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Undergraduate at **KIIT – Kalinga Institute of Industrial Technology** (CGPA: **8.88/10**)
+
+💡 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and Software Engineering**.
+
+🚀 I enjoy building AI-powered applications that solve real-world problems and continuously exploring emerging technologies.
+
+🌱 Currently learning:
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications
+- Docker
+- Cloud AI Services
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Interview Coach
+
+An AI-powered interview preparation platform that:
+
+- Parses resumes
+- Extracts technical skills
+- Generates adaptive interview questions
+- Provides AI-powered feedback
+- Creates personalized learning roadmaps
+
+**Tech Stack**
+
+- Python
+- Azure OpenAI
+- Streamlit
+- PyPDF
+- Azure AI Foundry
+
+🔗 Repository:
+https://github.com/mdasmar/AI-Interview-Coach
+
+---
+
+### 📊 JD Ranking System
+
+A CPU-only candidate ranking system that:
+
+- Matches resumes with job descriptions
+- Scores candidates using rule-based logic
+- Generates recruiter-friendly rankings
+- Includes a Streamlit interface
+
+**Tech Stack**
+
+- Python
+- Streamlit
+- JSON
+- CSV
+
+🔗 Repository:
+https://github.com/mdasmar/JD-Ranker-System
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+### AI / Machine Learning
+
+- Machine Learning
+- Large Language Models (LLMs)
+- Azure OpenAI
+- Natural Language Processing
+- Agentic AI
+- RAG
+
+---
+
+### Frameworks & Tools
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdasmar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasmar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdasmar&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/md-asmar-03b963401
+- 💻 GitHub: https://github.com/mdasmar
+- 📧 Email: mdasmar719@gmail.com
+
+---
+
+## 💡 Quote
+
+> *"Always learning, always building, and always exploring the future of Artificial Intelligence."*
