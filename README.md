@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Asmar</h1>
 <h3 align="center">AI/ML Developer | Computer Science Undergraduate | Building AI-Powered Applications</h3>
 
-<p align="center">
-  <a href="https://github.com/mdasmar">
-    <img src="https://komarev.com/ghpvc/?username=mdasmar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
