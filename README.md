@@ -13,16 +13,16 @@
 
 🎓 B.Tech Computer Science Undergraduate at **KIIT – Kalinga Institute of Industrial Technology** (CGPA: **8.88/10**)
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs), and Software Engineering**.
+💡 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs),AI Agents and Software Engineering**.
 
 🚀 I enjoy building AI-powered applications that solve real-world problems and continuously exploring emerging technologies.
 
 🌱 Currently learning:
-- Agentic AI
+- AI Agents
 - Retrieval-Augmented Generation (RAG)
 - LLM Applications
-- Docker
-- Cloud AI Services
+- Agentic AI
+- Machine Learning
 
 ---
 
@@ -55,7 +55,7 @@ https://github.com/mdasmar/AI-Interview-Coach
 
 A CPU-only candidate ranking system that:
 
-- Matches resumes with job descriptions
+- Matches resumes with job descriptions of Redrob candidates
 - Scores candidates using rule-based logic
 - Generates recruiter-friendly rankings
 - Includes a Streamlit interface
@@ -80,7 +80,6 @@ https://github.com/mdasmar/JD-Ranker-System
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
@@ -90,7 +89,7 @@ https://github.com/mdasmar/JD-Ranker-System
 - Large Language Models (LLMs)
 - Azure OpenAI
 - Natural Language Processing
-- Agentic AI
+- AI Agents
 - RAG
 
 ---
@@ -100,7 +99,6 @@ https://github.com/mdasmar/JD-Ranker-System
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
