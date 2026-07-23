@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Undergraduate at **KIIT – Kalinga Institute of Industrial Technology** (CGPA: **8.88/10**)
+🎓 B.Tech Computer Science Undergraduate at **KIIT – Kalinga Institute of Industrial Technology**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs),AI Agents and Software Engineering**.
+💡 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs),AI Agents,Agentic AI and Software Engineering**.
 
 🚀 I enjoy building AI-powered applications that solve real-world problems and continuously exploring emerging technologies.
 
@@ -24,42 +24,12 @@
 
 ### 🤖 AI Interview Coach
 
-An AI-powered interview preparation platform that:
-
-- Parses resumes
-- Extracts technical skills
-- Generates adaptive interview questions
-- Provides AI-powered feedback
-- Creates personalized learning roadmaps
-
-**Tech Stack**
-
-- Python
-- Azure OpenAI
-- Streamlit
-- PyPDF
-- Azure AI Foundry
-
 🔗 Repository:
 https://github.com/mdasmar/AI-Interview-Coach
 
 ---
 
 ### 📊 JD Ranking System
-
-A CPU-only candidate ranking system that:
-
-- Matches resumes with job descriptions of Redrob candidates
-- Scores candidates using rule-based logic
-- Generates recruiter-friendly rankings
-- Includes a Streamlit interface
-
-**Tech Stack**
-
-- Python
-- Streamlit
-- JSON
-- CSV
 
 🔗 Repository:
 https://github.com/mdasmar/JD-Ranker-System
