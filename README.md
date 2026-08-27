@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Asmar</h1>
-<h3 align="center">AI/ML Developer | Computer Science Undergraduate | Building AI-Powered Applications</h3>
+<h3 align="center">Computer Science Undergraduate | Building AI-Powered Applications</h3>
 
 ---
 
