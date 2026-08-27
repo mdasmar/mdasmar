@@ -7,7 +7,7 @@
 
 🎓 B.Tech Computer Science Undergraduate at **KIIT – Kalinga Institute of Industrial Technology**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Large Language Models (LLMs),AI Agents,Agentic AI and Software Engineering**.
+💡 Passionate about **Machine Learning, LLMs, Agentic AI and Software Engineering**.
 
 🚀 I enjoy building AI-powered applications that solve real-world problems and continuously exploring emerging technologies.
 
@@ -75,6 +75,3 @@ https://github.com/mdasmar/JD-Ranker-System
 
 ---
 
-## 💡 Quote
-
-> *"Always learning, always building, and always exploring the future of Artificial Intelligence."*
